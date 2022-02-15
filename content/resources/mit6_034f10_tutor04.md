@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information related to top-down approach to neural
   nets.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/281ccaf416d0de3c1609395df5d7a5fe_MIT6_034F10_tutor04.pdf
+file: /media/courses/6-034-artificial-intelligence-fall-2010/281ccaf416d0de3c1609395df5d7a5fe_MIT6_034F10_tutor04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tutorials
+ocw_type: OCWFile
+parent_title: Tutorials
+parent_type: CourseSection
 resourcetype: Document
 title: '6.034 Tutorial 4: Top-down approach to neural nets'
 uid: 281ccaf4-16d0-de3c-1609-395df5d7a5fe

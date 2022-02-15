@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Learning: Near Misses, Felicity Conditions'
 uid: 69c3f174-890a-e9d0-4080-2ca9e013df19
 video_files:
   archive_url: http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec15_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/de8ac6ec8a5f5a808c1d0c2017b9df1f_sh3EPjhhd40.vtt
+  video_captions_file: /courses/6-034-artificial-intelligence-fall-2010/de8ac6ec8a5f5a808c1d0c2017b9df1f_sh3EPjhhd40.vtt
   video_thumbnail_file: https://img.youtube.com/vi/sh3EPjhhd40/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/804e853adcbd0bcf387d32c69a7a5be7_sh3EPjhhd40.pdf
+  video_transcript_file: /courses/6-034-artificial-intelligence-fall-2010/804e853adcbd0bcf387d32c69a7a5be7_sh3EPjhhd40.pdf
 video_metadata:
   youtube_id: sh3EPjhhd40
 ---

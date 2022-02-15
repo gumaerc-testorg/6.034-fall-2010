@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Probabilistic Inference I'
 uid: 9ec82d94-3c58-e90f-2285-b48074e1de01
 video_files:
   archive_url: http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec21_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/873e6972906c5be98d0452072b5253eb_A6Ud6oUCRak.vtt
+  video_captions_file: /courses/6-034-artificial-intelligence-fall-2010/873e6972906c5be98d0452072b5253eb_A6Ud6oUCRak.vtt
   video_thumbnail_file: https://img.youtube.com/vi/A6Ud6oUCRak/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/bbc0d3658c1df7d9ff7d7356866350d3_A6Ud6oUCRak.pdf
+  video_transcript_file: /courses/6-034-artificial-intelligence-fall-2010/bbc0d3658c1df7d9ff7d7356866350d3_A6Ud6oUCRak.pdf
 video_metadata:
   youtube_id: A6Ud6oUCRak
 ---

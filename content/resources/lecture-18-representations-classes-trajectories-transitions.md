@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 18: Representations: Classes, Trajectories, Transitions'
 uid: 6ec4e8a9-8402-4339-15c7-4fc0cf8da9f3
 video_files:
   archive_url: http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec18_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/d766fa7a789f5ec780f9df6258d336d5_bQI0OmJPby4.vtt
+  video_captions_file: /courses/6-034-artificial-intelligence-fall-2010/d766fa7a789f5ec780f9df6258d336d5_bQI0OmJPby4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/bQI0OmJPby4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/0c98542b841b2aa8678b10de0db7487c_bQI0OmJPby4.pdf
+  video_transcript_file: /courses/6-034-artificial-intelligence-fall-2010/0c98542b841b2aa8678b10de0db7487c_bQI0OmJPby4.pdf
 video_metadata:
   youtube_id: bQI0OmJPby4
 ---

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: f55530ea-3c45-6eb0-4848-4f3ee8291c38
 title: Experiencing the Large Lecture as Theater
 uid: 622ec636-5134-c39b-7cca-04a28496740f

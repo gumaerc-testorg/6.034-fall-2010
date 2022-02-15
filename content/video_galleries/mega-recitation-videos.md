@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Mega-Recitation Videos
 uid: 6be7704d-dfe2-6b4e-1270-3167347dd5bb
 videos:

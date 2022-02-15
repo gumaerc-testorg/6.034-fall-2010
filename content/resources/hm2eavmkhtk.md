@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/5ac5495c27d588587d71371a42f133ee_hM2EAvMkhtk.srt
+file: /media/courses/6-034-artificial-intelligence-fall-2010/5ac5495c27d588587d71371a42f133ee_hM2EAvMkhtk.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 5ac5495c-27d5-8858-7d71-371a42f133ee
