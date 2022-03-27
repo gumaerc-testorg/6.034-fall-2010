@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Prof. Winston wrote about [the Rumpelstiltskin principle
   which was briefly mentioned in this lecture, in the _Slice of MIT_ blog.
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Constraints: Visual Object Recognition'
 uid: c87beea2-43de-1ebf-431c-ab907dd23f52
 video_files:

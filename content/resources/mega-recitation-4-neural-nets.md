@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: '[Quiz 3, Fall 2008 (PDF)](resources/mit6_034f10_quiz3_2008)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mega-Recitation 4: Neural Nets'
 uid: f8ea3e2b-98f3-40fd-56ad-f8d9e5ee9da7
 video_files:

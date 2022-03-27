@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: Specifically developed for this lecture are the [probabi
   the readings for this course.
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Probabilistic Inference II'
 uid: 307ce222-e2cf-5554-fd41-c4ff21964cea
 video_files:

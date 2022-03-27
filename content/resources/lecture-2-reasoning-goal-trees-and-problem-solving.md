@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: 'Slagle, James. "[A Heuristic Program that Solves Symbol
   _Journal of the ACM_ 10 (1963): 507-520.'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Reasoning: Goal Trees and Problem Solving'
 uid: 29f6f34c-a416-76d9-835e-4aca5039592f
 video_files:

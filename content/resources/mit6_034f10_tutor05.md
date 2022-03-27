@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 25b4d967-a959-c4ce-cc7d-0545026be8c6
 resourcetype: Document
 title: '6.034 Tutorial 5: Support vector machines, boosting'
 uid: 5e183eb5-97b8-5504-f2cd-1391eaf92008

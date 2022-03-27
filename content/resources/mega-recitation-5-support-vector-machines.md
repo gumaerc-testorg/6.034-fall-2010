@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: '[Quiz 4, Fall 2008 (PDF)](resources/mit6_034f10_quiz4_2008)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mega-Recitation 5: Support Vector Machines'
 uid: 9ee21cee-8709-51df-4920-3ea2ca822c05
 video_files:

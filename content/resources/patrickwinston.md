@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: f55530ea-3c45-6eb0-4848-4f3ee8291c38
 resourcetype: Image
 title: PatrickWinston
 uid: c91b4448-8e85-cb87-17b2-cea9bb11dbd5

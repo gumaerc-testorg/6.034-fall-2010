@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 25b4d967-a959-c4ce-cc7d-0545026be8c6
 resourcetype: Document
 title: '6.034 Tutorial 4: Top-down approach to neural nets'
 uid: 281ccaf4-16d0-de3c-1609-395df5d7a5fe

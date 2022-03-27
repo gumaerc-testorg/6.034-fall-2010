@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: '[Quiz 4, Fall 2009 (PDF)](resources/mit6_034f10_quiz4_2009)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mega-Recitation 6: Boosting'
 uid: c711b498-02b5-5f70-46be-baaca1f2f882
 video_files:

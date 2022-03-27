@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 25b4d967-a959-c4ce-cc7d-0545026be8c6
 resourcetype: Document
 title: '6.034 Tutorial 1: Rule-based systems, search'
 uid: f0d6c16f-9418-91b8-a270-b9b6f5358b98

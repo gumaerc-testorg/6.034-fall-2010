@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 8e1d494b-e6f3-2eb8-ac1d-9abc0eec8c3d
 resourcetype: Document
 title: MIT6_034F10_bayes.pdf
 uid: 3e6200ca-84af-05d9-5712-045abedce9e9

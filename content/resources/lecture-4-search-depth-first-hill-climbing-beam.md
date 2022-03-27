@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -17,6 +18,7 @@ related_resources_text: '[6.01SC Introduction to EECS I](/courses/6-01sc-introdu
   *   [Optimizing a Search](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/pages/unit-4-probability-and-planning/optimizing-a-search)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Search: Depth-First, Hill Climbing, Beam'
 uid: dc703721-c6e2-ddf8-ecf3-384b2ca0f006
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: "[Quiz 2, Fall 2007 (PDF)](resources/mit6_034f10_quiz2_2
   \  \n[Quiz 2, Fall 2008 (PDF)](resources/mit6_034f10_quiz2_2008)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mega-Recitation 3: Games, Minimax, Alpha-Beta'
 uid: b605863f-59de-0428-fe1c-8571132dfba5
 video_files:

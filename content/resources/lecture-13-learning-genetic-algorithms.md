@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: More information about [Evolved Virtual Creatures](http:
   which is shown at the end of the lecture.
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Learning: Genetic Algorithms'
 uid: 94a83126-4c37-2f49-131b-a025945d85ee
 video_files:

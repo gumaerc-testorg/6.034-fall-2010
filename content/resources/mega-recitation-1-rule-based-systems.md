@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: '[Quiz 1, Fall 2009 (PDF)](resources/mit6_034f10_quiz1_2009)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mega-Recitation 1: Rule-Based Systems'
 uid: 12d6b920-bdbb-23bb-65e0-2fb32cf80f9b
 video_files:

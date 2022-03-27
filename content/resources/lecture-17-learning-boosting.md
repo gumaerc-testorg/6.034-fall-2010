@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: Specifically developed for this lecture are the [boostin
   for this course.
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Learning: Boosting'
 uid: bb982745-cd83-02ec-b5ba-7a0ee144c56f
 video_files:

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 25b4d967-a959-c4ce-cc7d-0545026be8c6
 resourcetype: Document
 title: "6.034 Tutorial 5: Probability, Bayes nets, na\xEFve Bayes, model selection"
 uid: ef21cccd-d50d-0025-bce0-c72746ae182e

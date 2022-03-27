@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: Specifically developed for this lecture are the [support
   readings for this course.
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Learning: Support Vector Machines'
 uid: 601f8b80-fe4c-bfae-451c-e2106aec111f
 video_files:

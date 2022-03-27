@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 25b4d967-a959-c4ce-cc7d-0545026be8c6
 resourcetype: Document
 title: '6.034 Tutorial 2: Games, constraint satisfaction problems'
 uid: 431e41b0-74ad-ef2a-0b72-d270a9ddc8e9

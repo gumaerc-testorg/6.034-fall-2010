@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: '[Quiz 1, Fall 2008 (PDF)](resources/mit6_034f10_quiz1_2008)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mega-Recitation 2: Basic Search, Optimal Search'
 uid: 92eec3e5-9623-65ab-83ff-7f3a2206b1c6
 video_files:

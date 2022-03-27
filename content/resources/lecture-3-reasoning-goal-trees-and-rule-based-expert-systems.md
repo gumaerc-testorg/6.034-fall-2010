@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Duarte, Jos\xE9 Pinto. \"[Customizing Mass Housing: A D
   \ PhD thesis, MIT, 2001."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems'
 uid: b3069ee1-368e-4581-c1c9-32e57363d93e
 video_files:

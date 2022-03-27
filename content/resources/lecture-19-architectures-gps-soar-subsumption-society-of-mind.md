@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Architectures: GPS, SOAR, Subsumption, Society of Mind'
 uid: 6c476e3b-ab60-a3ad-89c0-cde49a2cbdbe
 video_files:

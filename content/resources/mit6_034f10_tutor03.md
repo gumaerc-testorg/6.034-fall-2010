@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 25b4d967-a959-c4ce-cc7d-0545026be8c6
 resourcetype: Document
 title: '6.034 Tutorial 3: K-nearest neighbors, decision trees, neural nets'
 uid: 4efa5e56-3ccb-9d54-fdd7-2068a8dda879

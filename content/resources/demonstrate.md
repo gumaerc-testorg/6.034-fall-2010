@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Demonstrations
 parent_type: CourseSection
+parent_uid: 6083a261-cf57-8b91-7651-f1c1e1ef5001
 resourcetype: Other
 title: demonstrate.jnlp
 uid: 6c062ac3-42cf-d6aa-4b8b-e040d66a41d0

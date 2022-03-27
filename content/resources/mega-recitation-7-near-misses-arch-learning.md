@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: '[Final Exam, Fall 2007 (PDF)](resources/mit6_034f10_final_2007)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mega-Recitation 7: Near Misses, Arch Learning'
 uid: 156ec04d-6378-23c7-02af-0dfe27e4c3cf
 video_files:
