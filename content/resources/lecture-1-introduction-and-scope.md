@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Winston introduces artificial intelligence and provides a brief history of the field. The last ten minutes are devoted to information about the course at MIT.
 
 **Instructor:** Patrick H. Winston
+

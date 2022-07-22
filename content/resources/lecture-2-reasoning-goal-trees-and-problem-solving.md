@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -29,3 +31,4 @@ video_metadata:
 **Description:** This lecture covers a symbolic integration program from the early days of AI. We use safe and heuristic transformations to simplify the problem, and then consider broader questions of how much knowledge is involved, and how the knowledge is represented.
 
 **Instructor:** Patrick H. Winston
+

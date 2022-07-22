@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** Why do "cats" and "dogs" end with different plural sounds, and how do we learn this? We can represent this problem in terms of distinctive features, and then generalize. We end this lecture with a brief discussion of how to approach AI problems.
 
 **Instructor:** Patrick H. Winston
+

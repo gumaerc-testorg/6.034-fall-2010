@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** To determine whether three blocks form an arch, we use a model which evolves through examples and near misses; this is an example of one-shot learning. We also discuss other aspects of how students learn, and how to package your ideas better.
 
 **Instructor:** Patrick H. Winston
+

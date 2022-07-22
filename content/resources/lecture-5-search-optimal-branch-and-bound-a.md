@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers strategies for finding the shortest path. We discuss branch and bound, which can be refined by using an extended list or an admissible heuristic, or both (known as A\*). We end with an example where the heuristic must be consistent.
 
 **Instructor:** Patrick H. Winston
+

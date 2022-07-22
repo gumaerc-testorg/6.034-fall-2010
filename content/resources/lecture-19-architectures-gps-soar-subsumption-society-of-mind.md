@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, we consider cognitive architectures, including General Problem Solver, SOAR, Emotion Machine, Subsumption, and Genesis. Each is based on a different hypothesis about human intelligence, such as the importance of language and stories.
 
 **Instructor:** Patrick H. Winston
+

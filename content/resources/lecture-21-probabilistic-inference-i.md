@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** We begin this lecture with basic probability concepts, and then discuss belief nets, which capture causal relationships between events and allow us to specify the model more simply. We can then use the chain rule to calculate the joint probability table.
 
 **Instructor:** Patrick H. Winston
+

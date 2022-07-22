@@ -5,13 +5,15 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: Specifically developed for this lecture are the [support vector
-  machine slides (PDF)](resources/mit6_034f10_svm), which are also listed among the
-  readings for this course.
+  machine slides (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_svm),
+  which are also listed among the readings for this course.
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -29,3 +31,4 @@ video_metadata:
 **Description:** In this lecture, we explore support vector machines in some mathematical detail. We use Lagrange multipliers to maximize the width of the street given certain constraints. If needed, we transform vectors into another space, using a kernel function.
 
 **Instructor:** Patrick H. Winston
+

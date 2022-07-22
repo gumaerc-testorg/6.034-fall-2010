@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -33,3 +35,4 @@ video_metadata:
 **Description:** This lecture covers algorithms for depth-first and breadth-first search, followed by several refinements: keeping track of nodes already considered, hill climbing, and beam search. We end with a brief discussion of commonsense vs. reflective knowledge.
 
 **Instructor:** Patrick H. Winston
+

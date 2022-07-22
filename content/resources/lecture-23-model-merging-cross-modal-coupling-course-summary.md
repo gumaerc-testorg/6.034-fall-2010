@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -33,3 +35,4 @@ video_metadata:
 **Description:** This lecture begins with a brief discussion of cross-modal coupling. Prof. Winston then reviews big ideas of the course, suggests possible next courses, and demonstrates how a story can be understood from multiple points of view at a conceptual level.
 
 **Instructor:** Patrick H. Winston
+

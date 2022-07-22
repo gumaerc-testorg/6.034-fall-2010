@@ -4,12 +4,14 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Mega-Recitation Videos
 parent_type: CourseSection
-related_resources_text: "[Quiz 2, Fall 2007 (PDF)](resources/mit6_034f10_quiz2_2007)\
-  \  \n[Quiz 2, Fall 2008 (PDF)](resources/mit6_034f10_quiz2_2008)"
+related_resources_text: "[Quiz 2, Fall 2007 (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_quiz2_2007)\
+  \  \n[Quiz 2, Fall 2008 (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_quiz2_2008)"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This mega-recitation covers Problem 1 from Quiz 2, Fall 2007. We start with a minimax search of the game tree, and then work an example using alpha-beta pruning. We also discuss static evaluation and progressive deepening (Problem 1-C, Fall 2008 Quiz 2).
 
 **Instructor:** Mark Seifter
+

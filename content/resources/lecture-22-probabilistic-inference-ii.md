@@ -5,13 +5,15 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: Specifically developed for this lecture are the [probabilistic
-  inference notes (PDF)](resources/mit6_034f10_bayes), which are also listed among
-  the readings for this course.
+  inference notes (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_bayes),
+  which are also listed among the readings for this course.
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -29,3 +31,4 @@ video_metadata:
 **Description:** We begin with a review of inference nets, then discuss how to use experimental data to develop a model, which can be used to perform simulations. If we have two competing models, we can use Bayes' rule to determine which is more likely to be accurate.
 
 **Instructor:** Patrick H. Winston
+

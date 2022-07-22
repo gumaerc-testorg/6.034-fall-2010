@@ -4,11 +4,13 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Mega-Recitation Videos
 parent_type: CourseSection
-related_resources_text: '[Quiz 4, Fall 2008 (PDF)](resources/mit6_034f10_quiz4_2008)'
+related_resources_text: '[Quiz 4, Fall 2008 (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_quiz4_2008)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** We start by discussing what a support vector is, using two-dimensional graphs as an example. We work Problem 1 of Quiz 4, Fall 2008: identifying support vectors, describing the classifier, and using a kernel function to project points into a new space.
 
 **Instructor:** Mark Seifter
+

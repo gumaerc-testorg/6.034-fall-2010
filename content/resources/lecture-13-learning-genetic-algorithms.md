@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +30,4 @@ video_metadata:
 **Description:** This lecture explores genetic algorithms at a conceptual level. We consider three approaches to how a population evolves towards desirable traits, ending with ranks of both fitness and diversity. We briefly discuss how this space is rich with solutions.
 
 **Instructor:** Patrick H. Winston
+

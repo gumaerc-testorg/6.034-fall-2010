@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture begins with a high-level view of learning, then covers nearest neighbors using several graphical examples. We then discuss how to learn motor skills such as bouncing a tennis ball, and consider the effects of sleep deprivation.
 
 **Instructor:** Patrick H. Winston
+

@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, we build an identification tree based on yes/no tests. We start by arranging the tree based on tests that result in homogeneous subsets. For larger datasets, this is generalized by measuring the disorder of subsets.
 
 **Instructor:** Patrick H. Winston
+

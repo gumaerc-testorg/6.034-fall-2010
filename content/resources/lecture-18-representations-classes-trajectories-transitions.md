@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, we consider the nature of human intelligence, including our ability to tell and understand stories. We discuss the most useful elements of our inner language: classification, transitions, trajectories, and story sequences.
 
 **Instructor:** Patrick H. Winston
+

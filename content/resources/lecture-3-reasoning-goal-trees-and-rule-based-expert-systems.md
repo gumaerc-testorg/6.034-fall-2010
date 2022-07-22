@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -29,3 +31,4 @@ video_metadata:
 **Description:** We consider a block-stacking program, which can answer questions about its own behavior, and then identify an animal given a list of its characteristics. Finally, we discuss how to extract knowledge from an expert, using the example of bagging groceries.
 
 **Instructor:** Patrick H. Winston
+

@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +30,4 @@ video_metadata:
 **Description:** We consider how object recognition has evolved over the past 30 years. In alignment theory, 2-D projections are used to determine whether an additional picture is of the same object. To recognize faces, we use intermediate-sized features and correlation.
 
 **Instructor:** Patrick H. Winston
+

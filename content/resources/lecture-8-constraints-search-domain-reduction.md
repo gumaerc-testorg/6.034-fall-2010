@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers map coloring and related scheduling problems. We develop pseudocode for the domain reduction algorithm and consider how much constraint propagation is most efficient, and whether to start with the most or least constrained variables.
 
 **Instructor:** Patrick H. Winston
+
