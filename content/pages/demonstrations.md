@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Demonstrations
 uid: 6083a261-cf57-8b91-7651-f1c1e1ef5001
 ---

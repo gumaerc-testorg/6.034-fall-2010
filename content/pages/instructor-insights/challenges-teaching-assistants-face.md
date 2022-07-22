@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: f55530ea-3c45-6eb0-4848-4f3ee8291c38
 title: Challenges Teaching Assistants Face
 uid: 72f651ef-7c6c-85f9-293e-445d51148aab
