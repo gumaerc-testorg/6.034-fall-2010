@@ -1,11 +1,17 @@
 ---
 content_type: video_gallery
+description: This section provides full-length lecture videos that cover the content
+  of the course. Lecture 20, which focuses on the AI business, is not available.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
 title: Lecture Videos
 uid: 28d36d64-2636-6698-bf1d-ed18c6190be7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 435aa7fe-d467-35cc-46cd-5e485ee66a1b
