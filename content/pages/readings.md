@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the readings for each session of the course and
+  information on the course textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 8e1d494b-e6f3-2eb8-ac1d-9abc0eec8c3d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Unless otherwise noted, the readings below are from the course textbook:
@@ -169,7 +175,7 @@ Chapter 21
 Learning: neural nets, back propagation
 {{< tdclose >}}
 {{< tdopen >}}
-[Neural net notes (PDF)]({{< baseurl >}}/resources/mit6_034f10_netmath)
+{{% resource_link fcd80812-5be0-9dd5-85ec-3ec01c46726d "Neural net notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +199,7 @@ Chapter 25
 Learning: sparse spaces, phonology
 {{< tdclose >}}
 {{< tdopen >}}
-Yip, Kenneth, and Gerald Jay Sussman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Sparse Representations for Fast, One-Shot Learning." (PDF)](http://courses.csail.mit.edu/6.803/pdf/yip.pdf)
+Yip, Kenneth, and Gerald Jay Sussman. ["Sparse Representations for Fast, One-Shot Learning." (PDF)](http://courses.csail.mit.edu/6.803/pdf/yip.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +223,7 @@ Chapter 16
 Learning: support vector machines
 {{< tdclose >}}
 {{< tdopen >}}
-[Support vector machine slides (PDF)]({{< baseurl >}}/resources/mit6_034f10_svm)
+{{% resource_link c12a7a6a-32ad-7497-b815-b6b93b6d5c00 "Support vector machine slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,9 +237,9 @@ Learning: boosting
 {{< tdopen >}}
 
 
-[Boosting notes (PDF)]({{< baseurl >}}/resources/mit6_034f10_boosting) (Courtesy of Patrick Winston and Luis Ortiz. Used with permission.)
+{{% resource_link 6f12118a-bb4d-06b7-fe81-6142e59dc883 "Boosting notes (PDF)" %}} (Courtesy of Patrick Winston and Luis Ortiz. Used with permission.)
 
-Schapire, Robert. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Boosting Approach to Machine Learning: An Overview." MSRI Workshop on Nonlinear Estimation and Classification, 2002. (PDF)](http://courses.csail.mit.edu/6.034f/ai3/msri.pdf)
+Schapire, Robert. ["The Boosting Approach to Machine Learning: An Overview." MSRI Workshop on Nonlinear Estimation and Classification, 2002. (PDF)](http://courses.csail.mit.edu/6.034f/ai3/msri.pdf)
 
 
 {{< tdclose >}}
@@ -261,11 +267,11 @@ Architectures: GPS, SOAR, Subsumption, Society of Mind
 {{< tdopen >}}
 
 
-Lehman, Jill, John Laird, and Paul Rosenbloom. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Gentle Introduction to Soar, An Architecture for Human Cognition: 2006 Update." (PDF)](http://courses.csail.mit.edu/6.034f/ai3/SOAR.pdf)
+Lehman, Jill, John Laird, and Paul Rosenbloom. ["A Gentle Introduction to Soar, An Architecture for Human Cognition: 2006 Update." (PDF)](http://courses.csail.mit.edu/6.034f/ai3/SOAR.pdf)
 
 Brooks, Rodney. "Intelligence Without Representation." _Artificial Intelligence_ 47 (1991): 139–59.
 
-Winston, Patrick Henry. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["S3, Taking Machine Intelligence to the Next, Much Higher Level." (PDF)](http://courses.csail.mit.edu/6.034f/ai3/Genesis.pdf)
+Winston, Patrick Henry. ["S3, Taking Machine Intelligence to the Next, Much Higher Level." (PDF)](http://courses.csail.mit.edu/6.034f/ai3/Genesis.pdf)
 
 
 {{< tdclose >}}
@@ -303,7 +309,7 @@ Probabilistic inference I
 Probabilistic inference II
 {{< tdclose >}}
 {{< tdopen >}}
-[Probabilistic inference notes (PDF)]({{< baseurl >}}/resources/mit6_034f10_bayes)
+{{% resource_link 3e6200ca-84af-05d9-5712-045abedce9e9 "Probabilistic inference notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,7 +321,7 @@ Probabilistic inference II
 Model merging, cross-modal coupling, course summary
 {{< tdclose >}}
 {{< tdopen >}}
-Coen, Michael. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Self-Supervised Acquisition of Vowels in American English." (PDF - 4.8MB)](http://people.csail.mit.edu/mhcoen/Coen-AAAI06.pdf) _AAAI Proceedings of the 21st National Conference on Artificial Intelligence_ 2 (2006).
+Coen, Michael. ["Self-Supervised Acquisition of Vowels in American English." (PDF - 4.8MB)](http://people.csail.mit.edu/mhcoen/Coen-AAAI06.pdf) _AAAI Proceedings of the 21st National Conference on Artificial Intelligence_ 2 (2006).
 {{< tdclose >}}
 
 {{< trclose >}}

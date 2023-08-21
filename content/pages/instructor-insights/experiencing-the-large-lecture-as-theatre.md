@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: ThisCourseAtMITSection
 parent_uid: f55530ea-3c45-6eb0-4848-4f3ee8291c38
 title: Experiencing the Large Lecture as Theater
 uid: 622ec636-5134-c39b-7cca-04a28496740f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Professor Patrick Winston describes how teaching a large lecture class is similar to rehearsing for and performing theater. In particular, he describes the social covenant that sets the expectation for the performance, the hours of preparation that go into developing the lecture, his practice ritual, his use of music to energize himself and the audience before the performance, and the amount of time it takes to “come down” after an adrenaline-fueled teaching experience._

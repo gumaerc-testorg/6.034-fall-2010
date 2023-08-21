@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: ThisCourseAtMITSection
 parent_uid: f55530ea-3c45-6eb0-4848-4f3ee8291c38
 title: Teaching Heuristics
 uid: eb66e881-31e8-4c5d-ae78-ba67407a1fc6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Professor Patrick Winston shares some of the heuristics that shape his teaching. He notes that he has learned many of these strategies from colleagues. Central ideas include beginning a lecture with a promise, inspiring students by conveying passion about what he's teaching, moving beyond teaching skills toward teaching powerful ideas, encouraging note-taking during lectures, and always ending a lecture with something fun._

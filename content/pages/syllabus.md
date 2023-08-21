@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides answers to frequently asked questions
+  about the course and information on meeting times and grading and collaboration
+  policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: a2b29268-36a2-c230-adb0-5be9acb8ab60
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

@@ -1,10 +1,16 @@
 ---
 content_type: video_gallery
+description: This section provides selected mega-recitation videos that review problems
+  from previous quizzes with input from the class.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Mega-Recitation Videos
 uid: 6be7704d-dfe2-6b4e-1270-3167347dd5bb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 12d6b920-bdbb-23bb-65e0-2fb32cf80f9b
