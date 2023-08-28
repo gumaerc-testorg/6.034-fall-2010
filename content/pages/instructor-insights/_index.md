@@ -38,8 +38,8 @@ Patrick Winston, Ford Professor of Artificial Intelligence and Computer Science.
 
 In the following pages, Professor Patrick Winston describes various aspects of how he teaches *6.034* *Artificial Intelligence*.
 
-- {{% resource_link eb66e881-31e8-4c5d-ae78-ba67407a1fc6 "Teaching Heuristics" %}}
-- {{% resource_link 622ec636-5134-c39b-7cca-04a28496740f "Experiencing the Large Lecture as Theatre" %}}
+- {{% resource_link "eb66e881-31e8-4c5d-ae78-ba67407a1fc6" "Teaching Heuristics" %}}
+- {{% resource_link "622ec636-5134-c39b-7cca-04a28496740f" "Experiencing the Large Lecture as Theatre" %}}
 
 Note: For additional insights from Professor Winston, please see “[Looking at the Numbers](http://web.mit.edu/fnl/volume/232/winston.html)” in the MIT Faculty Newsletter.
 
@@ -49,9 +49,9 @@ Note: For additional insights from Professor Winston, please see “[Looking at 
 
 Teaching assistants play an important role in the learning experiences of students enrolled in 6.034 *Artificial Intelligence*. Each teaching assistant holds office hours once a week, along with recitation sessions for two sections of 20 students once a week. A head teaching assistant coordinates and supports the work of the 12-member teaching assistant team. In the following pages, Jessica Noss, the head teaching assistant during the fall 2015 semester, and Dylan Holmes, a former head teaching assistant and a supervisor in the fall 2015 semester, share their insights about facilitating students’ learning in the course.
 
-- {{% resource_link 4a383af9-17cb-aa4d-b5da-433f3c40b994 "Assessment Informed by a Student-Centered Ethic" %}}
-- {{% resource_link 7656320c-8e4e-1623-d713-00b38f3b7a49 "Managing an Online Forum" %}}
-- {{% resource_link 72f651ef-7c6c-85f9-293e-445d51148aab "Challenges Teaching Assistants Face" %}}
+- {{% resource_link "4a383af9-17cb-aa4d-b5da-433f3c40b994" "Assessment Informed by a Student-Centered Ethic" %}}
+- {{% resource_link "7656320c-8e4e-1623-d713-00b38f3b7a49" "Managing an Online Forum" %}}
+- {{% resource_link "72f651ef-7c6c-85f9-293e-445d51148aab" "Challenges Teaching Assistants Face" %}}
 
 ## Curriculum Information
 
@@ -63,7 +63,7 @@ Teaching assistants play an important role in the learning experiences of studen
 
 ### Requirements Satisfied
 
-*6.034 Artificial Intelligence* can be applied toward a [Bachelor of Science in Computer Science and Engineering (PDF)](http://www.eecs.mit.edu/docs/ug/Checklist.pdf), but is not required.
+*6.034 Artificial Intelligence* can be applied toward a [Bachelor of Science in Computer Science and Engineering (PDF)](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/), but is not required.
 
 ### Offered
 
