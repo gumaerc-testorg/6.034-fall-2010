@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information related to probability, Bayes nets,\
   \ na\xEFve Bayes, model selection."
 file: /courses/6-034-artificial-intelligence-fall-2010/ef21cccdd50d0025bce0c72746ae182e_MIT6_034F10_tutor06.pdf
+file_size: 694682
 file_type: application/pdf
 learning_resource_types:
 - Tutorials

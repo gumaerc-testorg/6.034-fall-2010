@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to top-down approach to neural
   nets.
 file: /courses/6-034-artificial-intelligence-fall-2010/281ccaf416d0de3c1609395df5d7a5fe_MIT6_034F10_tutor04.pdf
+file_size: 559062
 file_type: application/pdf
 learning_resource_types:
 - Tutorials

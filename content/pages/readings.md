@@ -17,7 +17,7 @@ Unless otherwise noted, the readings below are from the course textbook:
 
 Winston, Patrick Henry. _Artificial Intelligence_. 3rd ed. Addison-Wesley, 1992. ISBN: 9780201533774.
 
-Additional resources, where relevant, are listed with the respective [Lecture Videos]({{< baseurl >}}/pages/lecture-videos) under the "Related Resources" tab.
+Additional resources, where relevant, are listed with the respective {{% resource_link "28d36d64-2636-6698-bf1d-ed18c6190be7" "Lecture Videos" %}} under the "Related Resources" tab.
 
 {{< tableopen >}}
 {{< theadopen >}}

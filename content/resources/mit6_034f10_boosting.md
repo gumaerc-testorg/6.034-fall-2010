@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to adaptive boosting.
 file: /courses/6-034-artificial-intelligence-fall-2010/6f12118abb4d06b7fe816142e59dc883_MIT6_034F10_boosting.pdf
+file_size: 116040
 file_type: application/pdf
 learning_resource_types:
 - Readings
