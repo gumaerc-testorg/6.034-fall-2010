@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-034-artificial-intelligence-fall-2010/bb94a5ee3b0f0351808e14b34829d67a_300-approx.png
+file_size: 3040
 file_type: image/png
 image_metadata:
   caption: ''

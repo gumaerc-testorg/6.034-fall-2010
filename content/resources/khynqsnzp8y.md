@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-034-artificial-intelligence-fall-2010/63e437417a6556ad0522cea854cc1021_kHyNqSnzP8Y.srt
+file_size: 63160
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
