@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file for assignment 5.
 file: /courses/6-034-artificial-intelligence-fall-2010/83e6a28f35d64ccbe301fdd938d82c5e_lab5.zip
+file_size: 1266839
 file_type: application/zip
 learning_resource_types:
 - Assignments

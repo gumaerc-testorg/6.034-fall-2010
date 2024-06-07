@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to fortunate choices.
 file: /courses/6-034-artificial-intelligence-fall-2010/c12a7a6a32ad7497b815b6b93b6d5c00_MIT6_034F10_svm.pdf
+file_size: 195351
 file_type: application/pdf
 learning_resource_types:
 - Readings
