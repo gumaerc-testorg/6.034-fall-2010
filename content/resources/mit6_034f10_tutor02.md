@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to games, constraint satisfaction
   problems.
-file: /courses/6-034-artificial-intelligence-fall-2010/431e41b074adef2a0b72d270a9ddc8e9_MIT6_034F10_tutor02.pdf
+file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-fall-2010/431e41b074adef2a0b72d270a9ddc8e9_MIT6_034F10_tutor02.pdf
 file_size: 578884
 file_type: application/pdf
 learning_resource_types:
