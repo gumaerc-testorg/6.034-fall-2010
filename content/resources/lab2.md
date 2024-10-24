@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for assignment 2.
-file: /courses/6-034-artificial-intelligence-fall-2010/686872a938b319c16840fc9e4ee2c408_lab2.zip
+file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-fall-2010/686872a938b319c16840fc9e4ee2c408_lab2.zip
 file_size: 13577
 file_type: application/zip
 learning_resource_types:
