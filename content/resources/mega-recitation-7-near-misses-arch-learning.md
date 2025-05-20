@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '124476826'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -25,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: J-ocRQCjcwE
 ---
-
 **Description:** This mega-recitation covers a question from the Fall 2007 final exam, in which we teach a robot how to identify a table lamp. Given a starting model, we identify a heuristic and adjust the model for each example; examples can be hits or near misses.
 
 **Instructor:** Mark Seifter
-

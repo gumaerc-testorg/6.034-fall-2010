@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '195272191'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -25,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: Tl_p5pgBsyM
 ---
-
 **Description:** This mega-recitation covers Problem 2 from Quiz 1, Fall 2008. We start with depth-first search and breadth-first search, using a goal tree in each case. We then discuss branch and bound and A\*, and why they give different answers in this problem.
 
 **Instructor:** Mark Seifter
-

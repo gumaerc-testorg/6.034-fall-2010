@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '191859265'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -26,8 +33,6 @@ video_files:
 video_metadata:
   youtube_id: hM2EAvMkhtk
 ---
-
 **Description:** This mega-recitation covers Problem 1 from Quiz 2, Fall 2007. We start with a minimax search of the game tree, and then work an example using alpha-beta pruning. We also discuss static evaluation and progressive deepening (Problem 1-C, Fall 2008 Quiz 2).
 
 **Instructor:** Mark Seifter
-

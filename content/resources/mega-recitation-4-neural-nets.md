@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '196125497'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -25,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: JMrFgnqSS0w
 ---
-
 **Description:** We begin by discussing neural net formulas, including the sigmoid and performance functions and their derivatives. We then work Problem 2 of Quiz 3, Fall 2008, which includes running one step of back propagation and matching neural nets with classifiers.
 
 **Instructor:** Mark Seifter
-
