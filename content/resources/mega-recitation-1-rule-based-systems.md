@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '158795007'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -25,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: iusTmgQyZ44
 ---
-
 **Description:** In this mega-recitation, we cover Problem 1 from Quiz 1, Fall 2009. We begin with the rules and assertions, then spend most of our time on backward chaining and drawing the goal tree for Part A. We end with a brief discussion of forward chaining.
 
 **Instructor:** Mark Seifter
-

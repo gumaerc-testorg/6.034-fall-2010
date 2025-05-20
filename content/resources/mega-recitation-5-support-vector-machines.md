@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '167324995'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -25,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: 6nDqY8MPLDM
 ---
-
 **Description:** We start by discussing what a support vector is, using two-dimensional graphs as an example. We work Problem 1 of Quiz 4, Fall 2008: identifying support vectors, describing the classifier, and using a kernel function to project points into a new space.
 
 **Instructor:** Mark Seifter
-
