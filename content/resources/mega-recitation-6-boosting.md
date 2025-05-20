@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '185901720'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -25,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: ZZmzMJB-tow
 ---
-
 **Description:** This mega-recitation covers the boosting problem from Quiz 4, Fall 2009. We determine which classifiers to use, then perform three rounds of boosting, adjusting the weights in each round. This gives us an expression for the final classifier.
 
 **Instructor:** Mark Seifter
-
