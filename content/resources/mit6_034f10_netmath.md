@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to sigmoid function.
 draft: false
-file: /courses/6-034-artificial-intelligence-fall-2010/fcd808125be09dd585ec3ec01c46726d_MIT6_034F10_netmath.pdf
+file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-fall-2010/fcd808125be09dd585ec3ec01c46726d_MIT6_034F10_netmath.pdf
 file_size: 134223
 file_type: application/pdf
 image_metadata:

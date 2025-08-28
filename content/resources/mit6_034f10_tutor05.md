@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to support vector machines,
   boosting.
 draft: false
-file: /courses/6-034-artificial-intelligence-fall-2010/5e183eb597b85504f2cd1391eaf92008_MIT6_034F10_tutor05.pdf
+file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-fall-2010/5e183eb597b85504f2cd1391eaf92008_MIT6_034F10_tutor05.pdf
 file_size: 1025741
 file_type: application/pdf
 image_metadata:
@@ -11,7 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Tutorials
+- Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorials
@@ -26,6 +26,7 @@ video_files:
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''

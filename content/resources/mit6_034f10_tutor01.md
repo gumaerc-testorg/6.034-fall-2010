@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to rule-based systems, search.
 draft: false
-file: /courses/6-034-artificial-intelligence-fall-2010/f0d6c16f941891b8a270b9b6f5358b98_MIT6_034F10_tutor01.pdf
+file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-fall-2010/f0d6c16f941891b8a270b9b6f5358b98_MIT6_034F10_tutor01.pdf
 file_size: 530423
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Tutorials
+- Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorials
@@ -25,6 +25,7 @@ video_files:
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
