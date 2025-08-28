@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-034-artificial-intelligence-fall-2010/6606d548ed1fd623cb0b0dc2b9853889_VrMHA3yX_QI.srt
+file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-fall-2010/6606d548ed1fd623cb0b0dc2b9853889_VrMHA3yX_QI.srt
 file_size: 64899
 file_type: application/x-subrip
 learning_resource_types: []
