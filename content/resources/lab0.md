@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a special file for assignment 0.
 draft: false
-file: /courses/6-034-artificial-intelligence-fall-2010/f84a2d9dbab33f23b7e43cc3520f2587_lab0.zip
+file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-fall-2010/f84a2d9dbab33f23b7e43cc3520f2587_lab0.zip
 file_size: 9359
 file_type: application/zip
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
