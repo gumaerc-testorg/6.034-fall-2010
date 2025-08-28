@@ -46,11 +46,12 @@
   "learning_resource_types": [
     "Exams",
     "Lecture Videos",
-    "Recitation Videos",
+    "Problem-solving Videos",
     "Programming Assignments",
     "Instructor Insights"
   ],
   "site_uid": "b1fbeba1-9c38-457e-8f4f-ffec5c4e25bd",
   "site_short_id": "6.034-fall-2010",
+  "site_url_path": "courses/6-034-artificial-intelligence-fall-2010",
   "title": "Course Metadata"
 }
