@@ -12,8 +12,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: Prof. Winston wrote about [the Rumpelstiltskin principle](https://alum.mit.edu/slice/rumpelstiltskin-principle),
-  which was briefly mentioned in this lecture, in the _Slice of MIT_ blog.
+related_resources_text: Prof. Winston wrote about {{% resource_link "f5efc74d-5784-4076-b826-5322c440d72a"
+  "the Rumpelstiltskin principle" %}}, which was briefly mentioned in this lecture,
+  in the _Slice of MIT_ blog.
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
