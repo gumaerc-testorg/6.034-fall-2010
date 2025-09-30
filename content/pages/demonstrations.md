@@ -25,4 +25,4 @@ The demonstrations illustrate the following ideas:
 *   Biological mimetics: genetic algorithms, self-organizing maps, cross-modal clustering
 *   Learning: nearest neighbors, support vector machines, lattice learning, boosting
 
-The demonstrations require Java 8 and [course instructions for installation](https://ai6034.mit.edu/wiki/index.php?title=Demonstrations) are available. Please note that these instructions do require you to change Java security options. Then, you can {{% resource_link 6c062ac3-42cf-d6aa-4b8b-e040d66a41d0 "run the demonstrations (JNLP)" %}}.
+The demonstrations require Java 8 and {{% resource_link "e5856fa7-3480-4cb1-a69a-7313139e8a79" "course instructions for installation" %}} are available. Please note that these instructions do require you to change Java security options. Then, you can {{% resource_link 6c062ac3-42cf-d6aa-4b8b-e040d66a41d0 "run the demonstrations (JNLP)" %}}.

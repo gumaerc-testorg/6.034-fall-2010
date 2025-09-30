@@ -113,7 +113,7 @@ Poor understanding of the topic
 
 You will get an A if your average score is above about 4.5, a B if it is between about 3.5 and about 4.5, and so on. If you are near one of the transition points, your tutorial and recitation instructors can decide whether to round your grade up or down based on your class participation.
 
-Winston, Patrick. "[Skills, Big Ideas, and Getting Grades Out of the Way](http://web.mit.edu/fnl/volume/204/winston.html)." MIT Faculty Newsletter, March/April 2008.
+Winston, Patrick. "{{% resource_link "5271c4ab-8a49-4fcc-a7c1-cdd371eebca4" "Skills, Big Ideas, and Getting Grades Out of the Way" %}}." MIT Faculty Newsletter, March/April 2008.
 
 ### Quizzes
 

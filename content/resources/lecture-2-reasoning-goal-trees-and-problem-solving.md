@@ -12,9 +12,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: 'Slagle, James. "[A Heuristic Program that Solves Symbolic
-  Integration Problems in Freshman Calculus](http://dx.doi.org/10.1145/321186.321193)."
-  _Journal of the ACM_ 10 (1963): 507-520.'
+related_resources_text: 'Slagle, James. "{{% resource_link "047562bc-17b0-4fb7-9759-75d0859238ed"
+  "A Heuristic Program that Solves Symbolic Integration Problems in Freshman Calculus"
+  %}}." _Journal of the ACM_ 10 (1963): 507-520.'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
