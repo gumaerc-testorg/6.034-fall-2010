@@ -199,7 +199,7 @@ Chapter 25
 Learning: sparse spaces, phonology
 {{< tdclose >}}
 {{< tdopen >}}
-Yip, Kenneth, and Gerald Jay Sussman. {{% resource_link "c74b347e-91c7-4585-9afd-425aeb649f06" "\"Sparse Representations for Fast, One-Shot Learning.\" (PDF)" %}}
+Yip, Kenneth, and Gerald Jay Sussman. ["Sparse Representations for Fast, One-Shot Learning." (PDF)](http://courses.csail.mit.edu/6.803/pdf/yip.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +239,7 @@ Learning: boosting
 
 {{% resource_link 6f12118a-bb4d-06b7-fe81-6142e59dc883 "Boosting notes (PDF)" %}} (Courtesy of Patrick Winston and Luis Ortiz. Used with permission.)
 
-Schapire, Robert. {{% resource_link "7b2f7357-4f7a-4aac-b8d2-6d88fbc3bfae" "\"The Boosting Approach to Machine Learning: An Overview.\" MSRI Workshop on Nonlinear Estimation and Classification, 2002. (PDF)" %}}
+Schapire, Robert. ["The Boosting Approach to Machine Learning: An Overview." MSRI Workshop on Nonlinear Estimation and Classification, 2002. (PDF)](http://courses.csail.mit.edu/6.034f/ai3/msri.pdf)
 
 
 {{< tdclose >}}
@@ -267,11 +267,11 @@ Architectures: GPS, SOAR, Subsumption, Society of Mind
 {{< tdopen >}}
 
 
-Lehman, Jill, John Laird, and Paul Rosenbloom. {{% resource_link "8357ea9e-15f3-445b-b36b-654dc180268a" "\"A Gentle Introduction to Soar, An Architecture for Human Cognition: 2006 Update.\" (PDF)" %}}
+Lehman, Jill, John Laird, and Paul Rosenbloom. ["A Gentle Introduction to Soar, An Architecture for Human Cognition: 2006 Update." (PDF)](http://courses.csail.mit.edu/6.034f/ai3/SOAR.pdf)
 
 Brooks, Rodney. "Intelligence Without Representation." _Artificial Intelligence_ 47 (1991): 139–59.
 
-Winston, Patrick Henry. {{% resource_link "aa52a9d5-a742-4601-ba10-de5598d8b606" "\"S3, Taking Machine Intelligence to the Next, Much Higher Level.\" (PDF)" %}}
+Winston, Patrick Henry. ["S3, Taking Machine Intelligence to the Next, Much Higher Level." (PDF)](http://courses.csail.mit.edu/6.034f/ai3/Genesis.pdf)
 
 
 {{< tdclose >}}
@@ -321,7 +321,7 @@ Probabilistic inference II
 Model merging, cross-modal coupling, course summary
 {{< tdclose >}}
 {{< tdopen >}}
-Coen, Michael. {{% resource_link "d19c6b4d-6d76-4c71-88a9-58b65cd90bac" "\"Self-Supervised Acquisition of Vowels in American English.\" (PDF - 4.8MB)" %}} _AAAI Proceedings of the 21st National Conference on Artificial Intelligence_ 2 (2006).
+Coen, Michael. ["Self-Supervised Acquisition of Vowels in American English." (PDF - 4.8MB)](http://people.csail.mit.edu/mhcoen/Coen-AAAI06.pdf) _AAAI Proceedings of the 21st National Conference on Artificial Intelligence_ 2 (2006).
 {{< tdclose >}}
 
 {{< trclose >}}
