@@ -12,8 +12,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: More information about {{% resource_link "5801aec5-217a-4a15-a19b-84bb1f3f7000"
-  "Evolved Virtual Creatures" %}}, which is shown at the end of the lecture.
+related_resources_text: More information about [Evolved Virtual Creatures](http://www.karlsims.com/evolved-virtual-creatures.html),
+  which is shown at the end of the lecture.
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
